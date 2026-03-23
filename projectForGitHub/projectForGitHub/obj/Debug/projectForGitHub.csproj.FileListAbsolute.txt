@@ -1,7 +1,0 @@
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\bin\Debug\projectForGitHub.exe.config
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\bin\Debug\projectForGitHub.exe
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\bin\Debug\projectForGitHub.pdb
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\obj\Debug\projectForGitHub.csproj.AssemblyReference.cache
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\obj\Debug\projectForGitHub.csproj.CoreCompileInputs.cache
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\obj\Debug\projectForGitHub.exe
-C:\Users\varfi\OneDrive\Документы\Проекты VS 2022\projectForGitHub\projectForGitHub\obj\Debug\projectForGitHub.pdb
