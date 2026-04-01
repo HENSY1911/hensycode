@@ -8,6 +8,7 @@ namespace GuessTheNumber
         {
             Console.WriteLine("Hello, world!");
             Console.WriteLine("I'm the second developer");
+            Console.WriteLine("I'm the first developer");
         }
     }
 }
